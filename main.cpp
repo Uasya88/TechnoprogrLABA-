@@ -1,4 +1,5 @@
 #include "sdt.h"
+//Это учебная программа
 int main()
 {
     int n,m,sum,razn;
